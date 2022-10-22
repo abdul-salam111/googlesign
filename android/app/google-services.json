@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719186893853",
+    "project_id": "signin-cd44e",
+    "storage_bucket": "signin-cd44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719186893853:android:833a53f2baf56f0ba43af4",
+        "android_client_info": {
+          "package_name": "com.example.googlesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719186893853-dh95sjlb4tqu798qhta0ufgcps0lichm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesign",
+            "certificate_hash": "3df740d130f32fde793538f8c5a63969a147523e"
+          }
+        },
+        {
+          "client_id": "719186893853-ki8a85qpcfp50r31hukbodu0j544emj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB89VadrDZkUo1qkLa63QKcRnf_iHb2gS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719186893853-ki8a85qpcfp50r31hukbodu0j544emj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
